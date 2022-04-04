@@ -1,1 +1,2 @@
-# DAy-38-JAVA-Script-Programing
+Added Below practice problems in Day-38 Assignment
+1) Squence practice problems
